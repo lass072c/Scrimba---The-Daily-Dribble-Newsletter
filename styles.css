@@ -1,0 +1,29 @@
+.h1{text-align: center;}
+
+.img{
+    width: 380px;
+    margin:auto;
+    border: 3px solid #121212;
+    display: block;
+}
+.top{
+    text-align: center;
+    margin:5px 0px 0px 0px;
+
+}
+.top2{
+    text-align: center;
+  margin: 2px 0px 0px 0px;
+}
+.b2{
+    display: block;
+    margin: auto;
+}
+.link{
+    display: block;
+    text-align: center;
+}
+.text{
+    display: block;
+    text-align: center;
+}
